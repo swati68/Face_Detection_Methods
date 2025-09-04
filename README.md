@@ -1,7 +1,5 @@
-# Face_Detection_Methods
-
-The aim of this project is to detect faces irrespective of whether they are wearing a mask or not.
-Initially, several in-built face detection algorithms are tested on images containing both masked and unmasked faces. The output should detect all the human faces present in the image. But I observed that most of the in-built detectors failed to detect faces wearing a mask.
+# MaskedFaceNet: Comprehensive Face Detection Across Masked and Unmasked Faces
+MaskedFaceNet is a Python-based face detection system that utilizes advanced machine learning techniques to accurately identify faces in images, regardless of whether individuals are wearing masks. Leveraging libraries such as OpenCV and Dlib, this project demonstrates the application of both traditional and deep learning methods for robust face detection.
 
 # 1) Haar Cascade Classifier
 The input image used is:-
